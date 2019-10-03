@@ -65,9 +65,9 @@ made for ants.
 
 ![websiteforants](./images/what-is-this-a-website-for-ants.jpg)
 
-Here's a screenshot of github's site viewed on a phone. ANTS!
+Here's a screenshot of the Space Jam website, which is obviously a website that you would visit on a regular basis. ANTS!
 
-![github-desktop](./images/github-screenshot.png)
+![space-jam](./images/space-jam.png)
 
 ### Worst Case Scenario
 
