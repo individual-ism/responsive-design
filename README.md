@@ -196,16 +196,12 @@ queries, but that's less flexible, and way more repetitive.
 }
 ```
 
-Now go ahead and add that class to the appropriate elements. Resize the window.
-WHAT IS HAPPENING??!
+Let's add that class to the appropriate elements and resize the window. WHAT IS HAPPENING??! The sidebar should pop down below the text content when the viewport width gets
+smaller than 576px.
 
-The sidebar should pop down below the text content when the viewport width gets
-smaller than 572px.
+Now let's add more media queries at different widths and use them to create different classes!
 
-Feel free to add more media queries at different widths and use them to create
-different classes!
-
-## What else can we do with media queries?
+## What Else Can We Do With Media Queries?
 
 Obviously, width isn't the only property we can change using a media query. We
 can change **any** css property.
@@ -248,7 +244,7 @@ It's 2019. We don't build non-responsive websites anymore!
 Working with random percentages is great and all, but having consistency will
 take you much further and keep you from pulling your hair out.
 
-Enter: the GRID
+Enter: The GRID
 
 ![THE GRID](./images/tron_grid.jpg)
 
