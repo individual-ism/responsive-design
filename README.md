@@ -77,7 +77,7 @@ screen is way smaller now.
 
 ## I Do: Implementing Responsive Design
 
-Let's start by examining the codebase for a basic web page layout. What do you notice about the widths of the different elements? What does the site look like when we change the view?
+Let's start by examining [this codebase](https://git.generalassemb.ly/dc-wdi-fundamentals/responsive-web-design-starter-code) for a basic web page layout. What do you notice about the widths of the different elements? What does the site look like when we change the view?
 
 > To see what your web page will look like on different devices, go to your DevTools in Chrome and 
 > click on the tablet/phone icon at the top left. From there, you can select different devices from the 
@@ -243,7 +243,7 @@ easier to scale up and add items than cram stuff into a small space.
 
 It's 2019. We don't build non-responsive websites anymore!
 
-## Bonus Aside: the Grid
+## Bonus Aside: The Grid
 
 Working with random percentages is great and all, but having consistency will
 take you much further and keep you from pulling your hair out.
