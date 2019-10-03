@@ -206,7 +206,7 @@ Now let's add more media queries at different widths and use them to create diff
 Obviously, width isn't the only property we can change using a media query. We
 can change **any** css property.
 
-Add a new class to the small media query called `hidden-small`
+We'll add a new class to the small media query called `hidden-small`
 
 ```css
 @media screen and (max-width: 576px) {
