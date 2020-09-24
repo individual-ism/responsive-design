@@ -239,14 +239,6 @@ easier to scale up and add items than cram stuff into a small space.
 
 It's 2020. We don't build non-responsive websites anymore!
 
-## Bonus Aside: The Grid
-
-Working with random percentages is great and all, but having consistency will
-take you much further and keep you from pulling your hair out.
-
-Enter: The GRID
-
-
 ## Additional Resources
 
 - [A list of device viewport sizes](http://viewportsizes.com/)
