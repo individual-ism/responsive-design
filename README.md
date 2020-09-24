@@ -237,7 +237,7 @@ Start from the mobile layout and scale up when designing your page. Most CSS
 frameworks are mobile-first - since mobile is a huge portion of web traffic - and it's
 easier to scale up and add items than cram stuff into a small space.
 
-It's 2019. We don't build non-responsive websites anymore!
+It's 2020. We don't build non-responsive websites anymore!
 
 ## Bonus Aside: The Grid
 
@@ -246,27 +246,6 @@ take you much further and keep you from pulling your hair out.
 
 Enter: The GRID
 
-![THE GRID](./images/tron_grid.jpg)
-
-Instead of picking 40, 50, 60, whatever percent, many frameworks use 12 columns.
-
-The basic idea is that columns are equal to n divided by 12. So an element that
-is 3 columns wide === 3/12, which equals 25% width.
-
-5 columns === 5 / 12, or 41.6666667% width.
-
-Don't worry about the weird numbers, the browser does the math for us.
-
-Bootstrap uses this to generate CSS classes for each breakpoint and column
-combo. Example css classes:
-
-- `col-xs-12` means 12 columns wide at xtra small width
-- `col-md-4` means 4 columns wide at medium width
-- `col-lg-2` means 2 columns wide at large width
-
-We can apply these classes to any elements that we want. Generally, we apply
-them to elements that we want to act as containers. Then those elements resize
-depending on the screen size.
 
 ## Additional Resources
 
