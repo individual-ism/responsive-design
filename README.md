@@ -237,7 +237,7 @@ Start from the mobile layout and scale up when designing your page. Most CSS
 frameworks are mobile-first - since mobile is a huge portion of web traffic - and it's
 easier to scale up and add items than cram stuff into a small space.
 
-It's 2020. We don't build non-responsive websites anymore!
+It's 2021. We don't build non-responsive websites anymore!
 
 ## Additional Resources
 
