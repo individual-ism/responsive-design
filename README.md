@@ -77,7 +77,7 @@ screen is way smaller now.
 
 ## I Do: Implementing Responsive Design
 
-Let's start by examining [this codebase](https://git.generalassemb.ly/sei-axolotls/responsive-web-design-starter-code) for a basic web page layout. What do you notice about the widths of the different elements? What does the site look like when we change the view?
+Let's start by examining [this codebase](https://git.generalassemb.ly/sei-buffleheads/responsive-web-design-starter-code) for a basic web page layout. What do you notice about the widths of the different elements? What does the site look like when we change the view?
 
 > To see what your web page will look like on different devices, go to your DevTools in Chrome and 
 > click on the tablet/phone icon at the top left. From there, you can select different devices from the 
@@ -242,7 +242,7 @@ It's 2021. We don't build non-responsive websites anymore!
 ## Additional Resources
 
 - [A list of device viewport sizes](http://viewportsizes.com/)
-- [Solution branch for the starter code](https://git.generalassemb.ly/dc-wdi-fundamentals/responsive-web-design-starter-code/tree/solution-responsive). You can also fork and clone [the exercise repo](https://git.generalassemb.ly/dc-wdi-fundamentals/responsive-web-design-starter-code) and run `git checkout solution-responsive` in your terminal to examine the codebase on your local machine.
+- [Solution branch for the starter code](https://git.generalassemb.ly/sei-buffleheads/responsive-web-design-starter-code/tree/solution-responsive). You can also fork and clone [the exercise repo](https://git.generalassemb.ly/sei-buffleheads/responsive-web-design-starter-code) and run `git checkout solution-responsive` in your terminal to examine the codebase on your local machine.
 
 ## [License](LICENSE)
 
